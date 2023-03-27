@@ -6,4 +6,3 @@ The rules of Tic Tac Toe are simple: two players take turns placing X's and O's 
 
 Our app allows you to play against a friend, or against the computer at three different difficulty levels: Easy, Medium, and Hard. You can also choose to play as X or O, and the app keeps track of your wins, losses, and draws.
 
-In addition to the classic game mode, our app also includes a "Challenge" mode, where you can try to beat increasingly difficult levels with unique challenges, such as limited time or limited move
